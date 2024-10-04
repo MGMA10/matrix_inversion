@@ -1,0 +1,15 @@
+{C:/Users/GAD/Desktop/ADI/ASS/final project/Modiling_FixedPoint_V1/TESTING/cordic_rotation_fixed.v} {1 {vlog -work work {C:/Users/GAD/Desktop/ADI/ASS/final project/Modiling_FixedPoint_V1/TESTING/cordic_rotation_fixed.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module cordic_rotation_fixed
+
+Top level modules:
+	cordic_rotation_fixed
+
+} {} {}} {C:/Users/GAD/Desktop/ADI/ASS/final project/Modiling_FixedPoint_V1/TESTING/cordic_rotation_fixed_tb.v} {1 {vlog -work work {C:/Users/GAD/Desktop/ADI/ASS/final project/Modiling_FixedPoint_V1/TESTING/cordic_rotation_fixed_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module cordic_rotation_fixed_tb
+
+Top level modules:
+	cordic_rotation_fixed_tb
+
+} {} {}}

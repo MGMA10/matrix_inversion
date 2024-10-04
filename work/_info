@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vcordic_rotation_fixed
+Z1 !s100 d<moY0fCamohmQG^JD0Re3
+Z2 I?ajSC;VY7m:`S0BST1mJ82
+Z3 V5JF17D`_kbWAPQHT53[K23
+Z4 dC:\Users\GAD\Desktop\ADI\ASS\final project\Modiling_FixedPoint_V1\TESTING
+Z5 w1727935940
+Z6 8C:/Users/GAD/Desktop/ADI/ASS/final project/Modiling_FixedPoint_V1/TESTING/cordic_rotation_fixed.v
+Z7 FC:/Users/GAD/Desktop/ADI/ASS/final project/Modiling_FixedPoint_V1/TESTING/cordic_rotation_fixed.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/GAD/Desktop/ADI/ASS/final project/Modiling_FixedPoint_V1/TESTING/cordic_rotation_fixed.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1727956414.536000
+Z12 !s107 C:/Users/GAD/Desktop/ADI/ASS/final project/Modiling_FixedPoint_V1/TESTING/cordic_rotation_fixed.v|
+!s101 -O0
+vcordic_rotation_fixed_tb
+!i10b 1
+!s100 =boXUN]z;TzRZRddKTGkj1
+IFoMmbXghGILTLOF_@c4I81
+Z13 VaPmJEEj9Mn;?^9O@_LS=B0
+R4
+w1727956409
+Z14 8C:/Users/GAD/Desktop/ADI/ASS/final project/Modiling_FixedPoint_V1/TESTING/cordic_rotation_fixed_tb.v
+Z15 FC:/Users/GAD/Desktop/ADI/ASS/final project/Modiling_FixedPoint_V1/TESTING/cordic_rotation_fixed_tb.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1727956414.597000
+!s107 C:/Users/GAD/Desktop/ADI/ASS/final project/Modiling_FixedPoint_V1/TESTING/cordic_rotation_fixed_tb.v|
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/GAD/Desktop/ADI/ASS/final project/Modiling_FixedPoint_V1/TESTING/cordic_rotation_fixed_tb.v|
+!s101 -O0
+R10
